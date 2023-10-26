@@ -1,6 +1,6 @@
 - Hi, I’m @Jotucker123.
 - I have 15 years of commercial leadership experience in the healthcare sector. 
-- I’m interested in using healthcare data to improve patient outcomes and to drive healthcare efficiencies.
-- I’ve just sucessfully passed a Data Analyst L4 Bootcamp with Cambridge Sparks. 
-- I’m pursuing options for a Masters in Data Science or Healthcare Data Science to continue this journey.
+- I’m interested in using healthcare data to improve patient outcomes and to drive healthcare efficiencies;
+- Therefore I’ve just sucessfully passed a Data Analyst L4 Bootcamp with Cambridge Sparks, 
+- and I’m pursuing options for a Masters in Data Science or Healthcare Data Science to continue this journey.
 - Check out some example coding work from my portfolio involving python, pandas, seaborn, matplotlib, bokeh. 
