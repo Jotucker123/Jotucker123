@@ -3,4 +3,4 @@
 - I’m interested in using healthcare data to improve patient outcomes and to drive healthcare efficiencies;
 - Therefore I’ve just sucessfully passed a Data Analyst L4 Bootcamp with Cambridge Sparks, 
 - and I’m pursuing options for a Masters in Data Science or Healthcare Data Science to continue this journey.
-- Check out some example coding work from my portfolio involving python, pandas, seaborn, matplotlib, bokeh. 
+- Check out some example coding work from my portfolio involving python, pandas, seaborn, matplotlib, bokeh, stored below in Popular Repositories. 
